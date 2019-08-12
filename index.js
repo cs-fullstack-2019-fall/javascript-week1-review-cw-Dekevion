@@ -27,3 +27,20 @@ while (input !== "q") {
 
     }
 }
+
+while (ask !== "quit") {
+    var ask = prompt('enter your name.');
+    {
+        if (ask === "kevin") {
+            alert("hello ");
+        } else if (ask === "kenn") {
+            alert("hi")
+        } else if (ask === "autumn") {
+            alert("good morning");
+        }
+
+    }
+
+}
+
+
